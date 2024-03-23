@@ -1,7 +1,7 @@
-Treinando fundamentos java como; 
-Hashmap e Hashset,
-Cadeias de Repeticao,
-POO,
-Encapsulamento,
-Heranca e Wrappers.
+Training the Java basis with; 
+Hashmap and Hashset,
+Repetition Structures,
+OOP,
+Encapsulation,
+Heritage and Wrappers.
 
